@@ -94,3 +94,4 @@ INSERT INTO employes (nom, age, experience, region_principale) VALUES
 ('Bruno',40,10,'Mahajanga'),
 ('Cynthia',34,8,'Antsirabe'),
 ('Dina',30,5,'Toliara');
+-- Table des retours clients
